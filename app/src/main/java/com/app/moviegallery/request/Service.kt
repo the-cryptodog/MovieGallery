@@ -1,6 +1,6 @@
-package com.app.moviegallery
+package com.app.moviegallery.request
 
-import com.google.gson.GsonBuilder
+import com.app.moviegallery.Credentials
 import okhttp3.OkHttpClient
 import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
